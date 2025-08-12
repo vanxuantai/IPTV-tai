@@ -1,4 +1,3 @@
---LIST NÀY SƯU TẦM TỪ NHỮNG NGUỒN KHÁC. XIN PHÉP--
 #EXTINF:-1 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_640_360.png", TV360+1
 https://sgchill.io.vn/v1/b521/2554/index.m3u8
 #EXTINF:-1 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png", TV360+2
@@ -451,6 +450,7 @@ https://hls.mskycdn.online/tv/davinci/index.m3u8
 #EXTINF:-1 tvg-id="wbtv" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WBTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/warnertvhd/index.m3u8
+
 
 
 
