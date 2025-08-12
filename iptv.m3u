@@ -368,7 +368,7 @@ https://xem.hoiquan.Click/CoBan/btv1/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.Click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="lamdong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV1.png", LTV1 HD - Báo và PTTH Lâm Đồng
 https://xem.hoiquan.Click/CoBan/lam-dong/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg", HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/hbohd/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX HD
@@ -395,22 +395,22 @@ https://hls.mskycdn.online/tv/discoveryhd/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1200px-Discovery_Asia_logo.svg.png", DISCOVERY ASIA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/discoveryasiahd/index.m3u8
-#EXTINF:-1 tvg-id="outdoorhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg", OUTDOOR CHANNEL
+#EXTINF:-1 tvg-id="outdoorhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_outdoor-channel_165649323545.png", OUTDOOR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/outdoorhd/index.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg", CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://freight.cargo.site/w/1200/i/3cf72163d993c4d87263e6d4990ec4ccdd1e14b09ce89e6e35dee1de83ef4985/CN.jpg", CARTOON NETWORK HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/800px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png", DREAMWORKS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/dreamworks/index.m3u8
-#EXTINF:-1 tvg-id="bbccbeebies" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Cbeebies.svg/revision/latest?cb=20211011211035", BBC CBEEBIES HD
+#EXTINF:-1 tvg-id="bbccbeebies" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://s72140.cdn.mytvnet.vn/vimages/7d/d5/58/8c/ce/ea/7d58c-pcbeebieshd-channel-unkn.png", BBC CBEEBIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/bbccbb/index.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://cms.bbcasia.com/sites/default/files/2021-05/Lifestyle.jpg", BBC LIFESTYLE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/bbclifestyle/index.m3u8
-#EXTINF:-1 tvg-id="bbcearth" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s", BBC LIFESTYLE HD
+#EXTINF:-1 tvg-id="bbcearth" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s", BBC EARTH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/bbcearth/index.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj", BBC NEWS
@@ -443,3 +443,9 @@ https://hls.mskycdn.online/tv/rt/index.m3u8
 #EXTINF:-1 tvg-id="rtd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_RT_Doc.png", RT DOCUMENTARY ENGLISH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/rtd/index.m3u8
+#EXTINF:-1 tvg-id="arirang" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://i.ytimg.com/vi/ZqVyukYe4YM/hq720.jpg", ARIRANG WORLD HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-id="davincihd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://i.ytimg.com/vi/blOcbUNZlHY/maxresdefault.jpg", DA VINCI HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+
