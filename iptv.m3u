@@ -232,10 +232,10 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="Khác" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/43/HiTV_HD_2023.png/revision/latest/scale-to-width-down/190?cb=20230428230017&path-prefix=vi", HiTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=32
+https://sgchill.io.vn/v1/b521/32/index.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="Khác" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/51/YouTV_logo_2018.png/revision/latest?cb=20220602001158&path-prefix=vi", YouTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=31
+https://sgchill.io.vn/v1/b521/31/index.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png", DRT HD - Báo và PTTH Đắk Lắk
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://sgchill.io.vn/v1/b521/51/index.m3u8
@@ -487,6 +487,7 @@ http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302329.ts
 http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/290786.ts
 #EXTINF:-1 tvg-id="cna" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 
 
 
