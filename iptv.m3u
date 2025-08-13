@@ -450,7 +450,17 @@ https://hls.mskycdn.online/tv/davinci/index.m3u8
 #EXTINF:-1 tvg-id="wbtv" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WBTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/warnertvhd/index.m3u8
-
-
-
+#EXTINF:-1 tvg-id="kix" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="tlchd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
+https://1.org.vn/tlc
+#EXTINF:-1 tvg-id="historyhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png", History HD
+https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="bloomberg" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/rxFZgIK.png", Bloomberg
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302329.ts
+#EXTINF:-1 tvg-id="cnbc" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png", CNBC
+http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/290786.ts
+#EXTINF:-1 tvg-id="cna" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
