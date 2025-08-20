@@ -16,12 +16,17 @@ https://sgchill.io.vn/v1/b521/9869/index.m3u8
 https://sgchill.io.vn/v1/b521/9870/index.m3u8
 #EXTINF:-1 group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://sgchill.io.vn/v1/b521/9887/index.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1 (MSKY)
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 https://hls.mskycdn.online/tv/vtv1hd/index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1 s1 (TV360)
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+https://sgchill.io.vn/v1/b521/2/index.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2 (MSKY)
 https://hls.mskycdn.online/tv/vtv2hd/index.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2 s1 (TV360)
+https://sgchill.io.vn/v1/b521/3/index.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3 (MSKY)
 https://hls.mskycdn.online/tv/vtv3hd/index.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg" catchup="append" catchup-days="2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=378&time=${start}&offset=${duration}, VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -490,6 +495,7 @@ http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302329.ts
 http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/290786.ts
 #EXTINF:-1 tvg-id="cna" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 
 
 
