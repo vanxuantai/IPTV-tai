@@ -473,7 +473,7 @@ https://hls.mskycdn.online/tv/rtd/index.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="davincihd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://i.ytimg.com/vi/blOcbUNZlHY/maxresdefault.jpg", DA VINCI HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://hls.mskycdn.online/tv/davinci/index.m3u8
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="wbtv" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WBTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/warnertvhd/index.m3u8
@@ -490,6 +490,7 @@ http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302329.ts
 http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/290786.ts
 #EXTINF:-1 tvg-id="cna" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 
 
 
