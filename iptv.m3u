@@ -232,15 +232,9 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.ytimg.com/vi/sFLUmdwp0Z8/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="anvienhd" group-title="KÊNH KHÁC" tvg-logo="https://i.ytimg.com/vi/_rDp9EylTPg/maxresdefault.jpg", BTV9 - An Viên TV
+#EXTINF:-1 tvg-id="anvienhd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/_rDp9EylTPg/maxresdefault.jpg", BTV9 - An Viên TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hitv" group-title="KÊNH KHÁC" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/43/HiTV_HD_2023.png/revision/latest/scale-to-width-down/190?cb=20230428230017&path-prefix=vi", HiTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/32/index.m3u8
-#EXTINF:-1 tvg-id="youtv" group-title="KÊNH KÊNH KHÁC" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/51/YouTV_logo_2018.png/revision/latest?cb=20220602001158&path-prefix=vi", YouTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/31/index.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png", DRT HD - Báo và PTTH Đắk Lắk
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/51/index.m3u8
@@ -494,4 +488,5 @@ http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302329.ts
 http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/290786.ts
 #EXTINF:-1 tvg-id="cna" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 
