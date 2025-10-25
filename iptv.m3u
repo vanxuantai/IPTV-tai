@@ -375,20 +375,20 @@ https://hls.mskycdn.online/tv/hbohd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/cinemaxhd/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzMpELJrYH7D81zVpTgT7T96pw0EQCfsgD7A&s", AXN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.mskycdn.online/tv/axnhd/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1164010&extension=ts&play_token=ugKAP3E1xv
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/CinemaWorld_Your_World_of_Movies.png/revision/latest/scale-to-width-down/800?cb=20220224003905&path-prefix=vi", CINEMAWORLD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/cinemaworldhd/index.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/ABC_Australia_logo.svg", ABC AUSTRALIA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.mskycdn.online/tv/abcaustralia/index.m3u8
+http://49.0.64.96:8007/ABC
 #EXTINF:-1 tvg-id="animalhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg", ANIMAL PLANET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=71986&extension=ts&play_token=bxZiCrEqA4
 #EXTINF:-1 tvg-id="afnhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_asian-food-channel_165649221342.png", AFN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.mskycdn.online/tv/afnhd/index.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/afn-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/91/Discovery_HD_World.png/revision/latest?cb=20220127035646&path-prefix=vi", DISCOVERY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://hls.mskycdn.online/tv/discoveryhd/index.m3u8
@@ -424,13 +424,13 @@ http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/290675.ts
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8 
 #EXTINF:-1 tvg-id="kbsworld" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s", KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/CoBan/kbs-world/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/kbs-world/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe60BpcJ8F2RFT_bjx3qs_E3i6OF69aXvCag&s", FASHION TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr9BFTxsN8shXGABGN8A2k_3IrCuaBd3ss1g&s", DW ENGLISH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/dw/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXcb66QnEr5U2SdZIIoxZi_W1xbR2DKlVZeg&s", FRANCE 24H ENGLISH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
@@ -451,13 +451,16 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
 https://1.org.vn/tlc
 #EXTINF:-1 tvg-id="historyhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png", HISTORY HD
-https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/rxFZgIK.png", Bloomberg
 http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/302329.ts
 #EXTINF:-1 tvg-id="cnbc" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/30b1d744249569.56076e09dd31e.png", CNBC
 http://filex.me:8080/live/%40singh_tesla_7207492/puWnhEGsXpK3/290786.ts
 #EXTINF:-1 tvg-id="cna" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="kbs-world" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kbs-world/KenhCoBan",KBS World
+https://toiyeuvietnam.dpdns.org/CoBan/kbs-world/TuyetDoiKhongKinhDoanh.m3u8
+
 
 
 
