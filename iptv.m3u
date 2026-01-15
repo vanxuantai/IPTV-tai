@@ -350,7 +350,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://akasaijr.myftp.org:21585/hbo/index.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO HD (Server1)
+#EXTINF:-1 tvg-id="hbohd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png", HBO HD (Dự phòng)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://khaitv.giize.com:8090/225.1.1.112:30120
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", CINEMAX HD
@@ -405,7 +405,7 @@ http://khaitv.giize.com:8090/225.1.4.29:30120
 http://khaitv.giize.com:8090/225.1.4.23:30120
 #EXTINF:-1 tvg-id="bbcearth" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNXOrjX8auopIAAKFRHx1Y-KLi8Ync-CWUfw&s", BBC EARTH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://khaitv.giize.com:8090/http://khaitv.giize.com:8090/
+http://khaitv.giize.com:8090/225.1.2.24:30120
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://yt3.googleusercontent.com/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s900-c-k-c0x00ffffff-no-rj", BBC NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1775992&extension=ts&play_token=KEhyEZK2lr
@@ -437,7 +437,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="wbtv" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png", WBTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://khaitv.giize.com:8090/225.1.4.14:30120
+http://khaitv.giize.com:8090/225.1.1.139:30120
 #EXTINF:-1 tvg-id="kix" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/1200?cb=20211017094335&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
@@ -451,8 +451,11 @@ http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163721&extensio
 http://2.magmas5.com:8000/live/XXXR3str3amLine/200conxxxxQ41/131029.ts
 #EXTINF:-1 tvg-id="cna" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978069/mediacorp/corporate/inline-images/CNA__370x180.jpg", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="hgtv" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279_480_270.png", HGTV HD
+https://freem3u.xyz/api/live/play.m3u8?vid=99
 #EXTINF:-1 tvg-id="kbs-world" group-title="KÊNH QUỐC TẾ/NƯỚC NGOÀI" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/kbs-world/KenhCoBan",KBS World
 https://freem3u.xyz/api/live/play.m3u8?vid=213
+
 
 
 
